@@ -10,7 +10,7 @@
 - **Database management system (DBMS)**: A computerized system that enables users to create and maintain a database. The DBMS is a general-purpose software system that facilitates the processes of defining, constructing, manipulating, and sharing databases among various users and applications
 
 </details>
-
+---
 
 ## File storage versus Databases
 - In file systems, different types of users may need to access the same data but due to different use cases, **redundant copies of data are made**
