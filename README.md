@@ -1,8 +1,7 @@
 # Database Concepts
 
 <details>
-<summary> ## Terminology </summary>
-<br>
+<summary> Terminology </summary>
 	
 - **Database**: A collection of related data.
 - **Data**: Known facts that can be recorded and that have implicit meaning.
